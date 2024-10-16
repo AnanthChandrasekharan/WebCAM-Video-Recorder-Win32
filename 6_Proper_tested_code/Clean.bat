@@ -1,0 +1,1 @@
+del Record.obj Record.exe output*
